@@ -1,4 +1,4 @@
-                                     Hi there, 👋 I'm Ruslan
+                                 Hi there, 👋 I'm Ruslan
 - 💬 Ask me about me. I'm backend developer, graduated from [Netology](https://netology.ru/). During my studies, I completed the following coursework:
   #### [Online chat](https://github.com/MelnikovRuslan17/OnlineChat)
   #### [Money transfer service](https://github.com/MelnikovRuslan17/MoneyTransferApp)
