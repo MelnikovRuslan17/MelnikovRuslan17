@@ -1,4 +1,10 @@
-### Hi there 👋
+                                     Hi there, 👋 I'm Ruslan
+- 💬 Ask me about me. I'm backend developer, graduated from [Netology](https://netology.ru/). During my studies, I completed the following coursework:
+  #### [Online chat](https://github.com/MelnikovRuslan17/OnlineChat)
+  #### [Money transfer service](https://github.com/MelnikovRuslan17/MoneyTransferApp)
+  #### [Cloud storage diplom](https://github.com/MelnikovRuslan17/CloudStorageDiplom)
+  #### And some homework, you can see this under that Readme
+
 
 <!--
 **MelnikovRuslan17/MelnikovRuslan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
