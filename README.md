@@ -1,5 +1,5 @@
                                Здравствуйте, меня зовут Руслан.
- #### Я выпускник [Netology](https://netology.ru/) по специальности java junior developer. Во время обучения я выполнил следующие работы:
+- #### Я выпускник [Netology](https://netology.ru/) по специальности java junior developer. Во время обучения я выполнил следующие работы:
 - #### [Онлайн чат](https://github.com/MelnikovRuslan17/OnlineChat). Курсовая работа по блоку многопоточности.
 - #### [Сервис перевода денег](https://github.com/MelnikovRuslan17/MoneyTransferApp). Курсовая работа по блоку Springboot.
 - #### [Облачное хранилище](https://github.com/MelnikovRuslan17/CloudStorageDiplom). Дипломная работа.
